@@ -14,3 +14,10 @@
 .basic.cooler{
     font-size: 24px;
 }
+
+/* fourth element */
+#secondID{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
